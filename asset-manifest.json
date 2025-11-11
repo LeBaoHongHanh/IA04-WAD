@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IA04-WAD/static/css/main.7aa33dbb.css",
+    "main.js": "/IA04-WAD/static/js/main.00d5587c.js",
+    "index.html": "/IA04-WAD/index.html",
+    "main.7aa33dbb.css.map": "/IA04-WAD/static/css/main.7aa33dbb.css.map",
+    "main.00d5587c.js.map": "/IA04-WAD/static/js/main.00d5587c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7aa33dbb.css",
+    "static/js/main.00d5587c.js"
+  ]
+}
